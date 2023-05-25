@@ -2,6 +2,13 @@
 Codes used in "Kinetic barrier to enzyme inhibition is manipulated by dynamical local interactions in E. coli DHFR" paper
 
 All datasets are accessible from zenodo.org under the paper name. 
+
+# Figure 2
+
+for creating dual structure pdb file use hybrid_pdb_prep.py
+for creating configuration files use config.py
+for the calculation of energy estimates use parsing.py 
+
 # Figure 4
 
 Codes for extracting timewise distance information. Use it after aligning the structure. 
